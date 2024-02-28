@@ -1,0 +1,12 @@
+.wrap {
+    position: relative;
+    display: flex;
+}
+.menu {
+    height: 100vh;
+    background: #001529;
+}
+.main {
+    position: relative;
+    overflow: hidden;
+}
